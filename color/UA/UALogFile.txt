@@ -1,0 +1,104 @@
+2023-10-30 20:19:51.978 [p=6592, t=0x4280] Sync: No redundant partner configured
+2023-10-30 20:19:51.984 [p=6592, t=0x4280] Sync: Loading redundancy configuration
+2023-10-30 20:19:52.005 [p=6592, t=0x4280] Sync: Redundancy is not activated
+2023-10-30 20:19:52.012 [p=6592, t=0x4280] General: Disconnecting configuration.
+2023-10-30 20:19:52.016 [p=6592, t=0x4280] General: Connecting configuration.
+2023-10-30 20:19:52.094 [p=6592, t=0x4280] General: Connecting to runtime database "CC_color_23_10_18_13_17_29R" on instance "DESKTOP-GA9HAPR\WINCC"
+2023-10-30 20:19:52.106 [p=6592, t=0x4280] General: Checking and upgrading archive table schemas
+2023-10-30 20:19:52.108 [p=6592, t=0x4280] General: Archive table schemas are up to date now
+2023-10-30 20:19:52.165 [p=6592, t=0x4280] CUAServer::ConnectLicenseServices
+2023-10-30 20:19:52.168 [p=6592, t=0x4280] CUAServer::DisconnectLicenseServices
+2023-10-30 20:19:52.176 [p=6592, t=0x4280] CoCreateInstance of CCLicense.CCLicense.1 succeeded.
+2023-10-30 20:19:52.180 [p=6592, t=0x4280] CreateInstance of CLicenseTimerThread succeeded.
+2023-10-30 20:19:52.223 [p=6592, t=0x4280] General: Project activate
+2023-10-30 20:19:52.226 [p=6592, t=0x4280] General: Start deactivating the project...
+2023-10-30 20:19:52.228 [p=6592, t=0x4280] Sync: Loading redundancy configuration
+2023-10-30 20:19:52.234 [p=6592, t=0x4280] Sync: Redundancy is not activated
+2023-10-30 20:19:56.099 [p=6592, t=0x429c] General: ProjectEvent: 3
+2023-10-30 20:19:57.198 [p=6592, t=0x4238] CUAServer::OnLicenseCheck (first call).
+2023-10-30 20:19:57.201 [p=6592, t=0x4238] OnLicenseCheck: number of archives = 0.
+2023-10-30 20:40:43.337 [p=6592, t=0x16c0] CUAServer::SendInvalidQCToPartner - On Deactivate send invalid QCs to partner
+2023-10-30 20:40:43.337 [p=6592, t=0x429c] General: ProjectEvent: 4
+2023-10-30 20:40:43.347 [p=6592, t=0x429c] General: Start deactivating the project...
+2023-10-30 20:40:43.377 [p=6592, t=0x429c] General: Project deactivated
+2023-10-30 20:41:03.889 [p=6592, t=0x429c] General: ProjectEvent: 2
+2023-10-30 20:41:03.892 [p=6592, t=0x429c] General: Start closing the project...
+2023-10-30 20:41:03.894 [p=6592, t=0x429c] General: Start deactivating the project...
+2023-10-30 20:41:03.897 [p=6592, t=0x429c] CUAServer::DisconnectLicenseServices
+2023-10-30 20:41:04.149 [p=6592, t=0x429c] General: Disconnecting configuration.
+2023-11-04 11:28:52.000 [p=5184, t=0x4cc8] General: Project opened, dsncs="CC_color_23_10_18_13_17_29" path="\\DESKTOP-GA9HAPR\WinCC_Project_color\color.mcp"
+2023-11-04 11:28:52.021 [p=5184, t=0x4cc8] Sync: No redundant partner configured
+2023-11-04 11:28:52.024 [p=5184, t=0x4cc8] Sync: Loading redundancy configuration
+2023-11-04 11:28:52.045 [p=5184, t=0x4cc8] Sync: Redundancy is not activated
+2023-11-04 11:28:52.047 [p=5184, t=0x4cc8] General: Disconnecting configuration.
+2023-11-04 11:28:52.049 [p=5184, t=0x4cc8] General: Connecting configuration.
+2023-11-04 11:28:52.132 [p=5184, t=0x4cc8] General: Connecting to runtime database "CC_color_23_10_18_13_17_29R" on instance "DESKTOP-GA9HAPR\WINCC"
+2023-11-04 11:28:52.140 [p=5184, t=0x4cc8] General: Checking and upgrading archive table schemas
+2023-11-04 11:28:52.144 [p=5184, t=0x4cc8] General: Archive table schemas are up to date now
+2023-11-04 11:28:52.188 [p=5184, t=0x4cc8] CUAServer::ConnectLicenseServices
+2023-11-04 11:28:52.191 [p=5184, t=0x4cc8] CUAServer::DisconnectLicenseServices
+2023-11-04 11:28:52.195 [p=5184, t=0x4cc8] CoCreateInstance of CCLicense.CCLicense.1 succeeded.
+2023-11-04 11:28:52.198 [p=5184, t=0x4cc8] CreateInstance of CLicenseTimerThread succeeded.
+2023-11-04 11:28:52.232 [p=5184, t=0x4cc8] General: Project activate
+2023-11-04 11:28:52.235 [p=5184, t=0x4cc8] General: Start deactivating the project...
+2023-11-04 11:28:52.238 [p=5184, t=0x4cc8] Sync: Loading redundancy configuration
+2023-11-04 11:28:52.245 [p=5184, t=0x4cc8] Sync: Redundancy is not activated
+2023-11-04 11:28:55.989 [p=5184, t=0x3714] General: ProjectEvent: 3
+2023-11-04 11:28:57.205 [p=5184, t=0x3320] CUAServer::OnLicenseCheck (first call).
+2023-11-04 11:28:57.209 [p=5184, t=0x3320] OnLicenseCheck: number of archives = 0.
+2023-11-04 11:44:39.220 [p=5184, t=0x02dc] CUAServer::SendInvalidQCToPartner - On Deactivate send invalid QCs to partner
+2023-11-04 11:44:39.220 [p=5184, t=0x3714] General: ProjectEvent: 4
+2023-11-04 11:44:39.227 [p=5184, t=0x3714] General: Start deactivating the project...
+2023-11-04 11:44:39.245 [p=5184, t=0x3714] General: Project deactivated
+2023-11-04 11:46:19.247 [p=5184, t=0x3714] General: ProjectEvent: 3
+2023-11-04 11:46:19.250 [p=5184, t=0x3714] General: Project activate
+2023-11-04 11:46:19.254 [p=5184, t=0x3714] General: Start deactivating the project...
+2023-11-04 11:46:19.256 [p=5184, t=0x3714] Sync: Loading redundancy configuration
+2023-11-04 11:46:19.263 [p=5184, t=0x3714] Sync: Redundancy is not activated
+2023-11-04 11:55:14.048 [p=5184, t=0x4384] CUAServer::SendInvalidQCToPartner - On Deactivate send invalid QCs to partner
+2023-11-04 11:55:14.048 [p=5184, t=0x3714] General: ProjectEvent: 4
+2023-11-04 11:55:14.055 [p=5184, t=0x3714] General: Start deactivating the project...
+2023-11-04 11:55:14.074 [p=5184, t=0x3714] General: Project deactivated
+2023-11-04 11:55:53.618 [p=5184, t=0x3714] General: ProjectEvent: 3
+2023-11-04 11:55:53.621 [p=5184, t=0x3714] General: Project activate
+2023-11-04 11:55:53.623 [p=5184, t=0x3714] General: Start deactivating the project...
+2023-11-04 11:55:53.626 [p=5184, t=0x3714] Sync: Loading redundancy configuration
+2023-11-04 11:55:53.635 [p=5184, t=0x3714] Sync: Redundancy is not activated
+2023-11-04 12:23:50.382 [p=5184, t=0x3b18] CUAServer::SendInvalidQCToPartner - On Deactivate send invalid QCs to partner
+2023-11-04 12:23:50.382 [p=5184, t=0x3714] General: ProjectEvent: 4
+2023-11-04 12:23:50.389 [p=5184, t=0x3714] General: Start deactivating the project...
+2023-11-04 12:23:50.410 [p=5184, t=0x3714] General: Project deactivated
+2023-11-04 12:24:10.742 [p=5184, t=0x3714] General: ProjectEvent: 2
+2023-11-04 12:24:10.745 [p=5184, t=0x3714] General: Start closing the project...
+2023-11-04 12:24:10.747 [p=5184, t=0x3714] General: Start deactivating the project...
+2023-11-04 12:24:10.751 [p=5184, t=0x3714] CUAServer::DisconnectLicenseServices
+2023-11-04 12:24:11.013 [p=5184, t=0x3714] General: Disconnecting configuration.
+2023-11-04 15:56:56.355 [p=9040, t=0x3338] General: Project opened, dsncs="CC_color_23_10_18_13_17_29" path="\\DESKTOP-GA9HAPR\WinCC_Project_color\color.mcp"
+2023-11-04 15:56:56.404 [p=9040, t=0x3338] Sync: No redundant partner configured
+2023-11-04 15:56:56.407 [p=9040, t=0x3338] Sync: Loading redundancy configuration
+2023-11-04 15:56:56.455 [p=9040, t=0x3338] Sync: Redundancy is not activated
+2023-11-04 15:56:56.460 [p=9040, t=0x3338] General: Disconnecting configuration.
+2023-11-04 15:56:56.463 [p=9040, t=0x3338] General: Connecting configuration.
+2023-11-04 15:56:56.647 [p=9040, t=0x3338] General: Connecting to runtime database "CC_color_23_10_18_13_17_29R" on instance "DESKTOP-GA9HAPR\WINCC"
+2023-11-04 15:56:56.669 [p=9040, t=0x3338] General: Checking and upgrading archive table schemas
+2023-11-04 15:56:56.671 [p=9040, t=0x3338] General: Archive table schemas are up to date now
+2023-11-04 15:56:56.769 [p=9040, t=0x3338] CUAServer::ConnectLicenseServices
+2023-11-04 15:56:56.773 [p=9040, t=0x3338] CUAServer::DisconnectLicenseServices
+2023-11-04 15:56:56.780 [p=9040, t=0x3338] CoCreateInstance of CCLicense.CCLicense.1 succeeded.
+2023-11-04 15:56:56.783 [p=9040, t=0x3338] CreateInstance of CLicenseTimerThread succeeded.
+2023-11-04 15:56:56.818 [p=9040, t=0x3338] General: Project activate
+2023-11-04 15:56:56.821 [p=9040, t=0x3338] General: Start deactivating the project...
+2023-11-04 15:56:56.824 [p=9040, t=0x3338] Sync: Loading redundancy configuration
+2023-11-04 15:56:56.832 [p=9040, t=0x3338] Sync: Redundancy is not activated
+2023-11-04 15:57:01.798 [p=9040, t=0x2a14] CUAServer::OnLicenseCheck (first call).
+2023-11-04 15:57:01.801 [p=9040, t=0x2a14] OnLicenseCheck: number of archives = 0.
+2023-11-04 15:57:04.795 [p=9040, t=0x2528] General: ProjectEvent: 3
+2023-11-04 15:59:08.141 [p=9040, t=0x5714] CUAServer::SendInvalidQCToPartner - On Deactivate send invalid QCs to partner
+2023-11-04 15:59:08.141 [p=9040, t=0x2528] General: ProjectEvent: 4
+2023-11-04 15:59:08.148 [p=9040, t=0x2528] General: Start deactivating the project...
+2023-11-04 15:59:08.172 [p=9040, t=0x2528] General: Project deactivated
+2023-11-04 15:59:29.704 [p=9040, t=0x2528] General: ProjectEvent: 2
+2023-11-04 15:59:29.707 [p=9040, t=0x2528] General: Start closing the project...
+2023-11-04 15:59:29.712 [p=9040, t=0x2528] General: Start deactivating the project...
+2023-11-04 15:59:29.716 [p=9040, t=0x2528] CUAServer::DisconnectLicenseServices
+2023-11-04 15:59:29.976 [p=9040, t=0x2528] General: Disconnecting configuration.

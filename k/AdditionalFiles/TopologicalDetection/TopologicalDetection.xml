@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OnlineDevices>
+  <OnlineDevice id="0" name="aux" ipAddress="192.168.0.4" macAddress="E0-DC-A0-43-82-4F">
+    <Mlfb>6ES7 212-1BE40-0XB0</Mlfb>
+    <Type>0x002A010D</Type>
+    <TypeName>S7-1200</TypeName>
+    <OnlineModule moduleNumber="0">
+      <OnlinePorts>
+        <OnlinePort name="Port 1" portNumber="1">
+          <PortNumberInModule>1</PortNumberInModule>
+          <Description>Siemens, SIMATIC S7, Ethernet Port, X1 P1</Description>
+          <CableLength>0</CableLength>
+          <OnlineRemotePartners>
+            <OnlineRemotePartner>
+              <Device name="desktop-ga9hapr" ipAddress="0.0.0.0" macAddress="00-00-00-00-00-00" />
+              <Module number="0" />
+              <Port name="Port 1" numberInModule="1" />
+            </OnlineRemotePartner>
+          </OnlineRemotePartners>
+        </OnlinePort>
+      </OnlinePorts>
+    </OnlineModule>
+  </OnlineDevice>
+</OnlineDevices>
